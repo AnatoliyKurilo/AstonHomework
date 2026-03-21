@@ -1,4 +1,4 @@
-package Homework1;
+package ru.aston.Hometask1;
 
 public final class MutableClass {
 

@@ -1,6 +1,10 @@
-import Homework1.ImmutableClass;
-import Homework1.MutableClass;
-import Homework1.Person;
+//import Homework1.ImmutableClass;
+//import Homework1.MutableClass;
+//import Homework1.Person;
+
+import ru.aston.Hometask1.ImmutableClass;
+import ru.aston.Hometask1.MutableClass;
+import ru.aston.Hometask1.Person;
 
 void main() {
     Person p = new Person("Bob", 20);
