@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Ivan",
+    "books": [
+      {"title": "Java Core", "pages": 300, "year": 2005},
+      {"title": "Spring", "pages": 250, "year": 2010},
+      {"title": "Hibernate", "pages": 200, "year": 1999},
+      {"title": "Algorithms", "pages": 500, "year": 2015},
+      {"title": "Clean Code", "pages": 350, "year": 2008}
+    ]
+  },
+  {
+    "name": "Anna",
+    "books": [
+      {"title": "Java Core", "pages": 300, "year": 2005},
+      {"title": "Docker", "pages": 150, "year": 2018},
+      {"title": "Kubernetes", "pages": 400, "year": 2020},
+      {"title": "Git", "pages": 200, "year": 2012},
+      {"title": "Linux", "pages": 280, "year": 1998}
+    ]
+  }
+]
